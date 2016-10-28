@@ -1,4 +1,4 @@
-// A Divide and Conquer based program for maximum subarray sum problem
+// Grid walk
 #include<iostream>
 #include <stdio.h>
 #include <sstream>
